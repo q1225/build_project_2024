@@ -18,6 +18,8 @@ Thank you for participating in this project with me. Let's create something amaz
 - Sulaiman Alam
 - Tanvir Islam
 - Xinru Yu
+- linkedin: www.linkedin.com/in/xinrusherryyu
+-respository: https://github.com/q1225/Build-proiect-
 - Yuri Santos 
 
 
