@@ -14,9 +14,9 @@ Thank you for participating in this project with me. Let's create something amaz
 - Project leader email: pavel.tarasenko@openavenuesfoundation.org
 - Students Repos
 - Adrian Xavier Erfe
-- Sheikh Arian
-- Sulaiman Alam
-- Tanvir Islam
+- [Sheikh Arian](https://github.com/sheikharian/Build-Fellowship-2024.git)
+- [Sulaiman Alam](https://github.com/Sulaiman-Alam/Build-Project-2024)
+- [Tanvir Islam](https://github.com/tanviriss/Build-Fellowship-2024)
 - Xinru Yu
 - Yuri Santos 
 
