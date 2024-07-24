@@ -136,6 +136,7 @@ Let's add next connections for your tables:
 After all tables are created please publish Your code to Your git repository into separate .sql file. 
 To get code of Your database after all the tables are creates do the next from your SQL Server Managment studio:
 ![image](https://github.com/user-attachments/assets/f938139f-f597-40af-bc4f-2f43a44b5dbf)
+
 Right-click on your Db -> Tasks ->  Generate Scripts.
 
 Then hit "Next" on the first page -> Select "Script Entire Database and all database objects" -> One next step select whete to save the script (I usually recoment to save script to the file). Then hit next on all other windows and after file is created put it to Your repo.
