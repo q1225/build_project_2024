@@ -4,7 +4,7 @@
 ### Let's connect to your database server and create database
 
 ✅ **Connect to database server:**
--  go to File -> Connect
+-  In MS SQL Managment Studio app go to File -> Connect
 -  put **localhost** as Server Name and hit connect
 
 ✅ **Create Database**
