@@ -95,15 +95,15 @@ CREATE TABLE HealthCareProvider (
     CONSTRAINT PK_HealthCareProvider PRIMARY KEY (ID)
 );
 ```
-Here column "HospitalId" serve as connection between HealthCareProvider and Hospital tables. Buth there is no constraint yet created.
-lets create constraint:
+Here column "HospitalId" serves as a connection between HealthCareProvider and Hospital tables but there is no constraint.
+lets create a constraint:
 
  ```sql
 ALTER TABLE HealthCareProvider
 ADD CONSTRAINT FK_HealthCareProvider_Hospital
 FOREIGN KEY (HospitalId) REFERENCES Hospital(Id);
 ```
-Now let's add role column to the HealthCareProvider table.
+Now let's add a role column to the HealthCareProvider table.
 But before we do this let's add "enum" table for HealthCareProvider role. And then let's add a reference to this table to the HealthCareProvider table:
 ```sql
 CREATE TABLE HealthCareProviderRole (
@@ -119,7 +119,7 @@ ALTER TABLE HealthCareProvider
 ADD CONSTRAINT FK_HealthCareProvider_Role
 FOREIGN KEY (RoleId) REFERENCES HealthCareProviderRole(Id);
 ```
-I want You to create other tables by Your own using code snippets above as an example.
+I want You to create other tables on your own using the code snippets above as an example.
 
 Let's add next connections for your tables:
 
